@@ -1,0 +1,12 @@
+names:
+- Corners
+nc: 1
+roboflow:
+  license: Public Domain
+  project: chess-pieces-new
+  url: https://universe.roboflow.com/joseph-nelson/chess-pieces-new/dataset/23
+  version: 23
+  workspace: joseph-nelson
+test: ../test/images
+train: ../train/images
+val: ../valid/images
