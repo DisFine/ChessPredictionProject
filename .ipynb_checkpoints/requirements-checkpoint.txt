@@ -1,8 +1,0 @@
-opencv-python-headless
-numpy
-Pillow
-matplotlib
-torch
-ultralytics
-stockfish
-python-chess
