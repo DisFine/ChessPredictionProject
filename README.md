@@ -1,8 +1,8 @@
-#ChessPredictionProject - Ongoing
+# ChessPredictionProject - Ongoing
 
 This project enables real-time chess analysis and move optimization to gain an advantage in a game. Using your mobile camera to scan the chessboard, it detects the current board state, analyzes positions, and suggests the best moves. By leveraging YOLO for piece detection and Stockfish for strategic insights, the system delivers powerful recommendations to help you navigate the game and make optimal moves toward victory.
 
-##How to initialize the project for yourself
+## How to initialize the project for yourself
 
 1. Git Clone the Repository
 2. Make a new environment with python version 11 or below
