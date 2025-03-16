@@ -34,37 +34,30 @@ cd ChessPredictionProject
 ```
 2️⃣ Create a Virtual Environment (Python 11 or Below)
 ```sh
-Copy
-Edit
 python -m venv chess_env
 source chess_env/bin/activate  # On macOS/Linux
 chess_env\Scripts\activate     # On Windows
 ```
 3️⃣ Install Dependencies
 ```sh
-Copy
-Edit
 pip install -r requirements.txt
 ```
 4️⃣ Open the Jupyter Notebook
-```sh
-Copy
-Edit
-jupyter notebook
-Then, open Video.ipynb in Jupyter Notebook.
-```
+
+-open Video.ipynb in Jupyter Notebook.
+
 5️⃣ Set Up IP Webcam (For Live Camera Input)
-```sh
-Download IP Webcam from the Play Store.
-Start the IP Webcam server on your phone.
-Copy the IP address from the app.
-Update the address field in the 2nd cell of Video.ipynb.
-```
+
+-Download IP Webcam from the Play Store.
+-Start the IP Webcam server on your phone.
+-Copy the IP address from the app.
+-Update the address field in the 2nd cell of Video.ipynb.
+
 6️⃣ Run the Notebook
-```sh
-For Live Camera Input: Run the first two cells.
-For Video Input (Optional): Execute the third cell instead.
-```
+
+-For Live Camera Input: Run the first two cells.
+-For Video Input (Optional): Execute the third cell instead.
+
 ## 🔥 Contribution Guidelines
 -Fork the repository and create a new branch for your feature.
 -Make the necessary changes and commit them with a meaningful message.
